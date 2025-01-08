@@ -26,7 +26,7 @@ Some further PCA questions that are calculated using built in functionality.
 Calculating Gaussian distribution using libaries for some given parameters:
 ![math6](https://github.com/user-attachments/assets/27bdadd2-daa9-41e2-af9f-d18ec6870ecb)    
 ## Part10
-Linear regression to create a prediction model
+Linear regression to create a prediction model    
 ![math7](https://github.com/user-attachments/assets/3a979143-9c18-441b-97de-3ab8180cd240)    
 ## Part11
 Another linear regression task.
