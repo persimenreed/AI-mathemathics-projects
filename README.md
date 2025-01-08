@@ -1,5 +1,5 @@
 # AI Mathematics    
-This is a course focusing on relevant subjects in regard to artificial intelligence.
+This is a course focusing on relevant mathematical subjects in regard to artificial intelligence.
 
 ## Part1    
 Vanilla gradient descent, and gradient descent with momemtum
